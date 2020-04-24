@@ -107,10 +107,12 @@ main {
 
 .red .click-target:hover {
   background-color: red;
+  
 }
 
 .black .click-target:hover {
   background-color: black;
+  
 }
 
 .full.click-target {
